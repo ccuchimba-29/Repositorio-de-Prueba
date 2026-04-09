@@ -1,0 +1,9 @@
+node_modules/
+*.log
+*.exe
+*.zip
+*.rar
+.env
+dist/
+build/
+.git/objects/86/30f4f7ceeddc39219563156a4719592ccdcdd6
